@@ -55,13 +55,5 @@ Contributions are welcome! If you'd like to contribute to this project, you can:
 - Create a new branch for your feature/bug fix.
 - Make your changes and submit a pull request.
 
-Please make sure to follow the project's code of conduct.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to customize this README to include more details about your project, such as architecture, design choices, additional features, usage examples, and more. Providing clear instructions and documentation will help others understand and use your Sentiment Analyzer project effectively.
 
